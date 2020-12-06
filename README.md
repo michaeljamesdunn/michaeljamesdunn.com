@@ -1,3 +1,3 @@
-# mikedunn.blog
+# michaeljamesdunn.com
 
-Files stored here used on GitHub Pages.
+Files stored here used for hosting on GitHub Pages.
